@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "757792743344",
+    "project_id": "calm-dragon-295615",
+    "storage_bucket": "calm-dragon-295615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757792743344:android:c764f54868b77898ad0075",
+        "android_client_info": {
+          "package_name": "com.example.appfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757792743344-i8as89tal9fd3orfkdqjjka94fql07r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKkF218XUmCBnN0NFlKB3LeaIgoyIqJlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757792743344-i8as89tal9fd3orfkdqjjka94fql07r7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757792743344-1fv3r59l4glj610mempnaoefki2ghi8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectointegrador"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
